@@ -1,2 +1,4 @@
 To-Do List
--[ ] ffdfdfdffd
+- [ ] Logo upper left
+- [ ] Exemplars
+- [ ] 
